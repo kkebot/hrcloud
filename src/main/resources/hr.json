@@ -1,0 +1,201 @@
+{
+  "head": {
+    "name": "总公司",
+    "createdAt": "2019-01-01T00:00:00.000Z"
+  },
+  "payScales": [
+    {
+      "salary": 2300
+    },
+    {
+      "salary": 2700
+    },
+    {
+      "salary": 3100
+    },
+    {
+      "salary": 3500
+    },
+    {
+      "salary": 3900
+    },
+    {
+      "salary": 4300
+    },
+    {
+      "salary": 4700
+    },
+    {
+      "salary": 5100
+    },
+    {
+      "salary": 5500
+    },
+    {
+      "salary": 5900
+    },
+    {
+      "salary": 6300
+    },
+    {
+      "salary": 6700
+    },
+    {
+      "salary": 7100
+    },
+    {
+      "salary": 7500
+    },
+    {
+      "salary": 7900
+    },
+    {
+      "salary": 8300
+    },
+    {
+      "salary": 8700
+    },
+    {
+      "salary": 9100
+    },
+    {
+      "salary": 9500
+    },
+    {
+      "salary": 9900
+    },
+    {
+      "salary": 10300
+    },
+    {
+      "salary": 10700
+    },
+    {
+      "salary": 11100
+    },
+    {
+      "salary": 11500
+    },
+    {
+      "salary": 11900
+    },
+    {
+      "salary": 12300
+    },
+    {
+      "salary": 12700
+    },
+    {
+      "salary": 13100
+    },
+    {
+      "salary": 13500
+    },
+    {
+      "salary": 13900
+    },
+    {
+      "salary": 14300
+    },
+    {
+      "salary": 14700
+    },
+    {
+      "salary": 15100
+    },
+    {
+      "salary": 15500
+    },
+    {
+      "salary": 15900
+    },
+    {
+      "salary": 16300
+    },
+    {
+      "salary": 16700
+    },
+    {
+      "salary": 17100
+    },
+    {
+      "salary": 17500
+    },
+    {
+      "salary": 17900
+    },
+    {
+      "salary": 18300
+    },
+    {
+      "salary": 18700
+    },
+    {
+      "salary": 19100
+    },
+    {
+      "salary": 19500
+    },
+    {
+      "salary": 19900
+    },
+    {
+      "salary": 20300
+    },
+    {
+      "salary": 20700
+    },
+    {
+      "salary": 21100
+    },
+    {
+      "salary": 21500
+    },
+    {
+      "salary": 21900
+    },
+    {
+      "salary": 22300
+    },
+    {
+      "salary": 22700
+    },
+    {
+      "salary": 23100
+    },
+    {
+      "salary": 23500
+    },
+    {
+      "salary": 23900
+    },
+    {
+      "salary": 24300
+    },
+    {
+      "salary": 24700
+    },
+    {
+      "salary": 25100
+    },
+    {
+      "salary": 25500
+    },
+    {
+      "salary": 25900
+    },
+    {
+      "salary": 26300
+    },
+    {
+      "salary": 26700
+    },
+    {
+      "salary": 27100
+    },
+    {
+      "salary": 27500
+    }
+  ]
+
+}

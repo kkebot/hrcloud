@@ -1,0 +1,60 @@
+spring:
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate.dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+  #    properties:
+#      hibernate:
+#        show_sql: true
+#        format_sql: true
+  #    properties:
+#      hibernate:
+#        jdbc:
+#          batch_size: 20
+#        order_inserts: true
+#        generate_statistics: true
+  http:
+    log-request-details: true
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/hrcloud3?serverTimezone=GMT%2B8&useSSL=false
+    username: kkebot
+    password: kkebot
+  jackson:
+    date-format: yyyy-MM-dd'T'HH:mm:ss.sssZ  # ISO8601 compliant. Required. The default serialization format used by jackson
+    time-zone: GMT+8
+
+
+logging:
+  level:
+    org:
+      springframework:
+        web: DEBUG
+#      hibernate:
+#        type: TRACE # https://stackoverflow.com/a/41594913
+    hr: DEBUG
+
+file: spring.log
+
+
+#hr:
+#  web:
+#    api:
+server:
+  servlet:
+    session:
+      cookie:
+        http-only: false
+      timeout: 2H
+#      auto-decline: true
+
+hr-cloud:
+  launch:
+    filename: hr.json
+
+sample:
+  users:
+    - username: kke
+      password: kke
+      authority: ADMIN
