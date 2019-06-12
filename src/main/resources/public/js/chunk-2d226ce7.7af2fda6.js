@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d226ce7"],{e9da:function(e,t,n){"use strict";n.r(t);var l=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("Card",[n("Row",{attrs:{type:"flex",align:"middle",justify:"center"}},[n("Col",[n("h1",[e._v("404")])])],1),n("br"),n("Row",{attrs:{type:"flex",align:"middle",justify:"center"}},[n("Col",[n("p",[e._v("请求页面不存在:(")])])],1)],1)},r=[],a={},c=a,i=n("2877"),s=Object(i["a"])(c,l,r,!1,null,"71f85456",null);t["default"]=s.exports}}]);
+//# sourceMappingURL=chunk-2d226ce7.7af2fda6.js.map
